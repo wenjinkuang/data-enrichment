@@ -1,0 +1,102 @@
+,zip_code_3_digits,facility_id,hospital_county,age_group,total_charges,total_costs,apr_severity_of_illness_code,type_of_admission,ccs_diagnosis_code,ccs_diagnosis_description,zip_3,adi_natrank,adi_staternk
+0,OOS,1139.0,Westchester,0 to 17,"282,122.65","41,731.80",2,Emergency,224,Other perinatal conditions,,,
+1,112,1637.0,Queens,18 to 29,"27,739.91","9,574.03",1,Emergency,191,Polyhydramnios and other problems of amniotic cavity,112,20,6
+2,112,1637.0,Queens,18 to 29,"27,739.91","9,574.03",1,Emergency,191,Polyhydramnios and other problems of amniotic cavity,112,8,3
+3,113,541.0,Nassau,70 or Older,"86,758.21","15,203.77",3,Emergency,153,Gastrointestinal hemorrhage,113,8,3
+4,131,628.0,Onondaga,50 to 69,"16,786.10","7,401.71",2,Emergency,2,Septicemia (except in labor),131,73,9
+5,112,1466.0,Manhattan,0 to 17,"7,090.00","3,557.72",1,Newborn,218,Liveborn,112,20,6
+6,112,1466.0,Manhattan,0 to 17,"7,090.00","3,557.72",1,Newborn,218,Liveborn,112,8,3
+7,OOS,1117.0,Westchester,50 to 69,"23,877.75","10,987.32",3,Emergency,50,Diabetes mellitus with complications,,,
+8,117,913.0,Suffolk,50 to 69,"15,305.00","3,410.33",2,Emergency,59,Deficiency and other anemia,117,16,5
+9,117,913.0,Suffolk,50 to 69,"15,305.00","3,410.33",2,Emergency,59,Deficiency and other anemia,117,12.0,4.0
+10,117,913.0,Suffolk,50 to 69,"15,305.00","3,410.33",2,Emergency,59,Deficiency and other anemia,117,18,5
+11,125,752.0,Putnam,0 to 17,"3,770.53","1,121.17",1,Newborn,218,Liveborn,125,42,7
+12,125,752.0,Putnam,0 to 17,"3,770.53","1,121.17",1,Newborn,218,Liveborn,125,23,6
+13,124,192.0,Dutchess,0 to 17,"2,973.65","1,094.23",1,Newborn,218,Liveborn,124,37,7
+14,,,,0 to 17,"13,574.91","14,743.07",2,Elective,177,Spontaneous abortion,,,
+15,100,1450.0,Manhattan,50 to 69,"48,904.41","12,671.61",3,Emergency,50,Diabetes mellitus with complications,100,3,1
+16,100,1450.0,Manhattan,50 to 69,"48,904.41","12,671.61",3,Emergency,50,Diabetes mellitus with complications,100,1,1
+17,100,1450.0,Manhattan,50 to 69,"48,904.41","12,671.61",3,Emergency,50,Diabetes mellitus with complications,100,1,1
+18,109,699.0,Orange,50 to 69,"32,445.66","21,966.20",2,Emergency,83,Epilepsy; convulsions,109,23,6
+19,113,1637.0,Queens,70 or Older,"142,795.90","47,935.57",4,Emergency,248,Gangrene,113,8,3
+20,100,1450.0,Manhattan,50 to 69,"45,505.60","9,885.52",2,Elective,42,Secondary malignancies,100,3,1
+21,100,1450.0,Manhattan,50 to 69,"45,505.60","9,885.52",2,Elective,42,Secondary malignancies,100,1,1
+22,100,1450.0,Manhattan,50 to 69,"45,505.60","9,885.52",2,Elective,42,Secondary malignancies,100,1,1
+23,100,1438.0,Manhattan,18 to 29,"7,209.26","3,747.09",1,Emergency,134,Other upper respiratory disease,100,3,1
+24,100,1438.0,Manhattan,18 to 29,"7,209.26","3,747.09",1,Emergency,134,Other upper respiratory disease,100,1,1
+25,100,1438.0,Manhattan,18 to 29,"7,209.26","3,747.09",1,Emergency,134,Other upper respiratory disease,100,1,1
+26,105,1139.0,Westchester,70 or Older,"345,358.54","86,061.07",3,Emergency,115,Aortic; peripheral; and visceral artery aneurysms,105,6,2
+27,105,1139.0,Westchester,70 or Older,"345,358.54","86,061.07",3,Emergency,115,Aortic; peripheral; and visceral artery aneurysms,105,2,1
+28,112,1293.0,Kings,70 or Older,"66,828.77","28,567.67",3,Emergency,145,Intestinal obstruction without hernia,112,20,6
+29,112,1293.0,Kings,70 or Older,"66,828.77","28,567.67",3,Emergency,145,Intestinal obstruction without hernia,112,8,3
+30,128,818.0,Saratoga,70 or Older,"52,170.50","18,754.36",3,Elective,203,Osteoarthritis,128,6,2
+31,128,818.0,Saratoga,70 or Older,"52,170.50","18,754.36",3,Elective,203,Osteoarthritis,128,52,8
+32,128,818.0,Saratoga,70 or Older,"52,170.50","18,754.36",3,Elective,203,Osteoarthritis,128,30,7
+33,134,635.0,Onondaga,70 or Older,"58,914.84","24,238.26",1,Trauma,226,Fracture of neck of femur (hip),,,
+34,112,1306.0,Kings,0 to 17,"36,270.57","14,010.05",1,Newborn,218,Liveborn,112,20,6
+35,112,1306.0,Kings,0 to 17,"36,270.57","14,010.05",1,Newborn,218,Liveborn,112,8,3
+36,112,1306.0,Kings,18 to 29,"17,454.63","9,440.64",1,Emergency,190,Fetal distress and abnormal forces of labor,112,20,6
+37,112,1306.0,Kings,18 to 29,"17,454.63","9,440.64",1,Emergency,190,Fetal distress and abnormal forces of labor,112,8,3
+38,125,181.0,Dutchess,50 to 69,"18,864.68","3,643.41",1,Emergency,101,Coronary atherosclerosis and other heart disease,125,42,7
+39,125,181.0,Dutchess,50 to 69,"18,864.68","3,643.41",1,Emergency,101,Coronary atherosclerosis and other heart disease,125,23,6
+40,109,1458.0,Manhattan,50 to 69,"194,131.32","89,410.77",3,Elective,115,Aortic; peripheral; and visceral artery aneurysms,109,23,6
+41,OOS,1458.0,Manhattan,50 to 69,"50,866.07","15,828.02",1,Emergency,232,Sprains and strains,,,
+42,142,210.0,Erie,50 to 69,"7,693.13","3,104.22",2,Emergency,242,Poisoning by other medications and drugs,142,65,9
+43,142,210.0,Erie,50 to 69,"7,693.13","3,104.22",2,Emergency,242,Poisoning by other medications and drugs,142,65,9
+44,142,210.0,Erie,50 to 69,"7,693.13","3,104.22",2,Emergency,242,Poisoning by other medications and drugs,142,93,10
+45,142,210.0,Erie,50 to 69,"7,693.13","3,104.22",2,Emergency,242,Poisoning by other medications and drugs,142,27,6
+46,104,3058.0,Bronx,0 to 17,"16,323.95","3,385.35",1,Newborn,218,Liveborn,104,23,6
+47,104,3058.0,Bronx,0 to 17,"16,323.95","3,385.35",1,Newborn,218,Liveborn,104,28,7
+48,104,3058.0,Bronx,0 to 17,"16,323.95","3,385.35",1,Newborn,218,Liveborn,104,39,7
+49,103,1738.0,Richmond,70 or Older,"26,734.26","5,993.36",4,Emergency,2,Septicemia (except in labor),,,
+50,112,1324.0,Kings,70 or Older,"266,316.90","58,129.71",3,Emergency,13,Cancer of stomach,112,20,6
+51,112,1324.0,Kings,70 or Older,"266,316.90","58,129.71",3,Emergency,13,Cancer of stomach,112,8,3
+52,113,1638.0,Queens,70 or Older,"31,455.36","10,731.73",2,Emergency,153,Gastrointestinal hemorrhage,113,8,3
+53,113,3376.0,Queens,0 to 17,"10,869.84","3,305.97",2,Urgent,63,Diseases of white blood cells,113,8,3
+54,112,1324.0,Kings,70 or Older,"35,719.05","7,139.18",2,Emergency,128,Asthma,112,20,6
+55,112,1324.0,Kings,70 or Older,"35,719.05","7,139.18",2,Emergency,128,Asthma,112,8,3
+56,142,218.0,Erie,70 or Older,"19,494.60","10,494.31",1,Elective,24,Cancer of breast,142,65,9
+57,142,218.0,Erie,70 or Older,"19,494.60","10,494.31",1,Elective,24,Cancer of breast,142,65,9
+58,142,218.0,Erie,70 or Older,"19,494.60","10,494.31",1,Elective,24,Cancer of breast,142,93,10
+59,142,218.0,Erie,70 or Older,"19,494.60","10,494.31",1,Elective,24,Cancer of breast,142,27,6
+60,126,180.0,Dutchess,50 to 69,"4,002.99","1,264.77",1,Emergency,650,Adjustment disorders,126,29,7
+61,OOS,1466.0,Manhattan,70 or Older,"69,966.75","20,739.92",1,Emergency,653,"Delirium, dementia, and amnestic and other cognitive disorders",,,
+62,107,1098.0,Westchester,50 to 69,"7,710.47","4,168.05",2,Emergency,211,Other connective tissue disease,107,5,2
+63,107,1098.0,Westchester,50 to 69,"7,710.47","4,168.05",2,Emergency,211,Other connective tissue disease,107,37,7
+64,128,818.0,Saratoga,50 to 69,"32,623.05","13,036.22",2,Elective,203,Osteoarthritis,128,6,2
+65,128,818.0,Saratoga,50 to 69,"32,623.05","13,036.22",2,Elective,203,Osteoarthritis,128,52,8
+66,128,818.0,Saratoga,50 to 69,"32,623.05","13,036.22",2,Elective,203,Osteoarthritis,128,30,7
+67,104,1453.0,Manhattan,50 to 69,"69,195.52","27,788.73",3,Emergency,38,Non-Hodgkin`s lymphoma,104,23,6
+68,104,1453.0,Manhattan,50 to 69,"69,195.52","27,788.73",3,Emergency,38,Non-Hodgkin`s lymphoma,104,28,7
+69,104,1453.0,Manhattan,50 to 69,"69,195.52","27,788.73",3,Emergency,38,Non-Hodgkin`s lymphoma,104,39,7
+70,148,116.0,Chemung,0 to 17,"1,770.73",632.30,1,Newborn,218,Liveborn,148,90,10
+71,104,1172.0,Bronx,70 or Older,"7,540.70","3,927.22",2,Emergency,159,Urinary tract infections,104,23,6
+72,104,1172.0,Bronx,70 or Older,"7,540.70","3,927.22",2,Emergency,159,Urinary tract infections,104,28,7
+73,104,1172.0,Bronx,70 or Older,"7,540.70","3,927.22",2,Emergency,159,Urinary tract infections,104,39,7
+74,112,1324.0,Kings,70 or Older,"51,461.50","10,828.72",3,Emergency,42,Secondary malignancies,112,20,6
+75,112,1324.0,Kings,70 or Older,"51,461.50","10,828.72",3,Emergency,42,Secondary malignancies,112,8,3
+76,146,411.0,Monroe,70 or Older,"166,744.29","76,518.23",4,Emergency,2,Septicemia (except in labor),146,76,9
+77,146,411.0,Monroe,70 or Older,"166,744.29","76,518.23",4,Emergency,2,Septicemia (except in labor),146,94,10
+78,146,411.0,Monroe,70 or Older,"166,744.29","76,518.23",4,Emergency,2,Septicemia (except in labor),146,76,9
+79,146,411.0,Monroe,70 or Older,"166,744.29","76,518.23",4,Emergency,2,Septicemia (except in labor),146,72,9
+80,146,411.0,Monroe,70 or Older,"166,744.29","76,518.23",4,Emergency,2,Septicemia (except in labor),146,GQ,GQ
+81,146,411.0,Monroe,70 or Older,"166,744.29","76,518.23",4,Emergency,2,Septicemia (except in labor),146,66,9
+82,109,779.0,Rockland,70 or Older,"59,961.86","11,737.02",4,Emergency,2,Septicemia (except in labor),109,23,6
+83,141,213.0,Erie,50 to 69,"5,548.27","2,155.92",2,Emergency,153,Gastrointestinal hemorrhage,,,
+84,112,1304.0,Kings,50 to 69,"22,376.97","4,170.24",1,Emergency,145,Intestinal obstruction without hernia,112,20,6
+85,112,1304.0,Kings,50 to 69,"22,376.97","4,170.24",1,Emergency,145,Intestinal obstruction without hernia,112,8,3
+86,117,1458.0,Manhattan,70 or Older,"52,009.90","16,582.57",2,Elective,33,Cancer of kidney and renal pelvis,117,16,5
+87,117,1458.0,Manhattan,70 or Older,"52,009.90","16,582.57",2,Elective,33,Cancer of kidney and renal pelvis,117,12.0,4.0
+88,117,1458.0,Manhattan,70 or Older,"52,009.90","16,582.57",2,Elective,33,Cancer of kidney and renal pelvis,117,18,5
+89,134,630.0,Onondaga,70 or Older,"46,724.62","16,364.45",2,Emergency,97,Peri-; endo-; and myocarditis; cardiomyopathy (except that caused by tuberculosis or sexually transmitted disease),,,
+90,142,208.0,Erie,0 to 17,"5,608.00","2,533.04",1,Emergency,7,Viral infection,142,65,9
+91,142,208.0,Erie,0 to 17,"5,608.00","2,533.04",1,Emergency,7,Viral infection,142,65,9
+92,142,208.0,Erie,0 to 17,"5,608.00","2,533.04",1,Emergency,7,Viral infection,142,93,10
+93,142,208.0,Erie,0 to 17,"5,608.00","2,533.04",1,Emergency,7,Viral infection,142,27,6
+94,137,43.0,Broome,70 or Older,"31,570.91","13,678.09",1,Elective,203,Osteoarthritis,137,64,9
+95,137,43.0,Broome,70 or Older,"31,570.91","13,678.09",1,Elective,203,Osteoarthritis,137,81,10
+96,104,1169.0,Bronx,30 to 49,"17,205.60","3,083.97",2,Emergency,259,Residual codes; unclassified,104,23,6
+97,104,1169.0,Bronx,30 to 49,"17,205.60","3,083.97",2,Emergency,259,Residual codes; unclassified,104,28,7
+98,104,1169.0,Bronx,30 to 49,"17,205.60","3,083.97",2,Emergency,259,Residual codes; unclassified,104,39,7
+99,105,1061.0,Westchester,50 to 69,"30,514.00","17,095.25",3,Emergency,237,Complication of device; implant or graft,105,6,2
+100,105,1061.0,Westchester,50 to 69,"30,514.00","17,095.25",3,Emergency,237,Complication of device; implant or graft,105,2,1
